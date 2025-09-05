@@ -1,0 +1,72 @@
+//Constants and Variables copied code 
+score = 5
+score = score + score
+
+  let word1 = "Compound"
+let word2 = "assignment"
+let word3 = "is"
+let word4 = "useful"
+let space = " "
+
+var statement = ""
+statement += word1
+statement += space
+statement += word2
+statement += space
+statement += word3
+statement += space
+statement += word4
+var powerOfTwo = 1
+powerOfTwo *= 2
+powerOfTwo *= 5
+
+  // Scores for each target
+let scoreForGreen = 5
+let scoreForRed = 10
+let scoreForGold = 20
+
+// Player scores
+var scoreForGary = 0
+var scoreForRob = 0
+
+// Game events here
+scoreForGary += scoreForRed
+scoreForGary += scoreForGreen
+scoreForGary += scoreForGold
+
+scoreForRob += scoreForRed
+scoreForRob += scoreForGreen
+scoreForRob += scoreForGold
+
+scoreForGary += scoreForRed
+scoreForGary += scoreForGreen
+scoreForGary += scoreForGold
+
+scoreForRob += scoreForRed
+scoreForRob += scoreForGreen
+scoreForRob += scoreForGold
+
+scoreForRob
+scoreForGary
+
+let eggs = "Eggs"
+let milk = "Milk"
+let cheese = "Cheese"
+let bread = "Bread"
+let rice = "Rice"
+let newLine = "\n"
+let shoppinglist = ""
+shoppinglist + eggs + newLine + milk + newLine + cheese + newLine + bread + newLine + rice
+
+  var scoreBoard = 501
+var roundedScore = 0
+roundedScore += 17
+roundedScore += 11
+roundedScore += 1
+scoreBoard -= roundedScore
+
+print ("You have bad aim what is that score! \(roundedScore)")
+
+roundedScore = 0
+
+  
