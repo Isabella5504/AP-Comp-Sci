@@ -1,0 +1,14 @@
+
+let noun = "chase"
+let adjective = "blue"
+let number = "sixtySeven"
+print("\(noun) is very fond of \(adjective) cheese.
+InHe orders \(number) pounds of it every week")
+
+
+//Output:
+
+chase is very fond of blue cheese.
+He orders sixtySeven pounds of it every week
+
+=== Code Execution Successful ===
